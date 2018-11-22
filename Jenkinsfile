@@ -11,7 +11,7 @@ pipeline {
             
           }
           steps {
-            git 'https://github.com/AliceCodeZhang/sampleCode.git'
+            git 'https://github.com/ovwane/sampleCode.git'
           }
         }
         stage('second') {
